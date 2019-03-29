@@ -11,7 +11,7 @@
 
 # Screenshot
 
-https://github.com/2thao21/Clicky-Car-Game/blob/master/img/Clicky%20Car%20Memorization%20Game.JPG
+![Screenshot](https://github.com/2thao21/Clicky-Car-Game/blob/master/img/Clicky%20Car%20Memorization%20Game.JPG)
 
 # Live Demo
 
