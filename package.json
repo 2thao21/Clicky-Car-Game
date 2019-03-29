@@ -2,7 +2,7 @@
   "name": "clicky-car-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://2thao21.github.io/clicky-car-game/",
+  "homepage": "https://2thao21.github.io/Clicky-Car-Game/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "prop-types": "^15.7.2",
