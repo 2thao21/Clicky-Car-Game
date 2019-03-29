@@ -1,0 +1,19 @@
+.header{
+    background-color: lightgoldenrodyellow;
+    /* background: url(./images/RaceTrack.jpg); */
+	position: relative;
+	width: 100%;
+}
+
+h3{
+	text-align: center;
+	font-size: 70px;
+	font-weight: bold;
+	padding: 50px 0 20px 0; 
+}
+
+h4{
+	text-align: center;
+	font-size: 25px;
+    padding-bottom: 40px;
+}
