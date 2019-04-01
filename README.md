@@ -15,4 +15,4 @@
 
 # Live Demo
 
-* https://2thao21.github.io/Clicky-Car-Game/
+* https://2thao21.github.io/clicky-car-game/
